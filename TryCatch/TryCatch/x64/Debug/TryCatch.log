@@ -1,0 +1,5 @@
+﻿  TryCatch.cpp
+C:\Users\Asus\source\repos\TryCatch\TryCatch\TryCatch.cpp(48,6): warning C4101: 'a': unreferenced local variable
+C:\Users\Asus\source\repos\TryCatch\TryCatch\TryCatch.cpp(48,9): warning C4101: 'b': unreferenced local variable
+C:\Users\Asus\source\repos\TryCatch\TryCatch\TryCatch.cpp(48,11): warning C4101: 'step': unreferenced local variable
+  TryCatch.vcxproj -> C:\Users\Asus\source\repos\TryCatch\x64\Debug\TryCatch.exe
